@@ -12,3 +12,7 @@ This project implements a Gaussian Naïve Bayes classifier for detecting spam em
 ## How to Run
 
 Open the Colab notebook or run the Python script in the `code/` folder.
+
+## Citations
+
+Hopkins, M., Reeber, E., Forman, G., & Suermondt, J. (1999). Spambase [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C53G6X.
